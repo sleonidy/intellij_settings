@@ -3,6 +3,6 @@
     <option name="USE_HTTP_PROXY" value="true" />
     <option name="PROXY_HOST" value="proxy-iil.intel.com" />
     <option name="PROXY_PORT" value="911" />
-    <option name="PROXY_EXCEPTIONS" value="*.intel.com" />
+    <option name="PROXY_EXCEPTIONS" value="*.intel.com,192.168.2.2,192.168.1.189" />
   </component>
 </application>
