@@ -47,10 +47,5 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Python 2.7.11 (C:\Python27\python.exe) interpreter library">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
   </component>
 </application>
