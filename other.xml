@@ -5,4 +5,7 @@
     <option name="KEEP_ITN_PASSWORD" value="true" />
     <option name="EMAIL" value="" />
   </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
 </application>
