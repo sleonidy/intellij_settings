@@ -5,6 +5,10 @@
     <option name="KEEP_ITN_PASSWORD" value="true" />
     <option name="EMAIL" value="" />
   </component>
+  <component name="JavaFxSettings">
+    <option name="pathToSceneBuilder" value="$USER_HOME$/AppData/Local/SceneBuilder/SceneBuilder.exe" />
+    <option name="myPathToSceneBuilder" value="$USER_HOME$/AppData/Local/SceneBuilder/SceneBuilder.exe" />
+  </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
   </component>
