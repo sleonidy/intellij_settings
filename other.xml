@@ -1,0 +1,8 @@
+<application>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="sleonidy" />
+    <option name="ITN_PASSWORD_CRYPT" value="VldxQjUydWU=" />
+    <option name="KEEP_ITN_PASSWORD" value="true" />
+    <option name="EMAIL" value="" />
+  </component>
+</application>
