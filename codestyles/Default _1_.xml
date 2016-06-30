@@ -1,4 +1,7 @@
 <code_scheme name="Default (1)">
+  <GroovyCodeStyleSettings>
+    <option name="USE_FLYING_GEESE_BRACES" value="true" />
+  </GroovyCodeStyleSettings>
   <codeStyleSettings language="Groovy">
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
   </codeStyleSettings>
