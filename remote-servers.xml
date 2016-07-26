@@ -1,0 +1,12 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="CloudFoundry-Dev" type="cloudfoundry">
+      <configuration email="Leonid.Yanovsky@intel.com" password="#Heo7r5@">
+        <option name="apiUrl" value="https://api.apps1-fm-int.icloud.intel.com" />
+        <option name="domain" value="" />
+        <option name="organization" value="lyanovsk" />
+        <option name="space" value="development" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
